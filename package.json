@@ -12,6 +12,6 @@
     "@types/node": "^20.14.2"
   },
   "dependencies": {
-    "@sangyeon217/nodejs-sample-package": "^1.0.1"
+    "@sangyeon217/nodejs-sample-package": "^2.0.0"
   }
 }
