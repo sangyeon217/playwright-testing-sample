@@ -8,8 +8,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.44.1",
-    "@types/node": "^20.14.2"
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^22.19.7"
   },
   "dependencies": {
     "@sangyeon217/nodejs-sample-package": "^2.0.0"
