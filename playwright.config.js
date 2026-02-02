@@ -33,8 +33,9 @@ module.exports = defineConfig({
     // baseURL: 'http://127.0.0.1:3000',
     proxy: process.env.NETWORK === "ABROAD" ? proxyConfig : undefined,
 
-    /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
-    trace: "on-first-retry",
+    screenshot: "on",
+    video: "on",
+    trace: "on",
   },
 
   /* Configure projects for major browsers */
