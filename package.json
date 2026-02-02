@@ -9,7 +9,8 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.58.1",
-    "@types/node": "^22.19.7"
+    "@types/node": "^22.19.7",
+    "dotenv": "^17.2.3"
   },
   "dependencies": {
     "@sangyeon217/nodejs-sample-package": "^2.0.0"
